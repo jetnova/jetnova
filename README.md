@@ -1,5 +1,7 @@
 # Hello, World! 👋🏼 🌍
 
+<img src="https://media.giphy.com/media/vhneaJCHwmmIg/giphy.gif">
+
 I'm Matt! I'm a web developer fascinated with how the creation of applications contributes to making peoples' lives easier, and more fun.
 I love music, and being an ex-Air Traffic Controller have a keen interest in the Civil Aviation industry.
 
