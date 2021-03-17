@@ -1,6 +1,6 @@
 <h2 align="center">Hello, World! 👋🏼 🌍</h2>
 
-<img align="center" src="https://media.giphy.com/media/vhneaJCHwmmIg/giphy.gif">
+<h2 align="center"><img align="center" src="https://media.giphy.com/media/vhneaJCHwmmIg/giphy.gif"></h2>
 
 I'm Matt! I'm a web developer fascinated with how the creation of applications contributes to making peoples' lives easier, and more fun.
 I love music, and being an ex-Air Traffic Controller have a keen interest in the Civil Aviation industry.
