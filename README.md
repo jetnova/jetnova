@@ -1,6 +1,6 @@
 <h2 align="center">👋🏼 🌍</h2>
 
-<p>Ruby/React Software Developer @ <a href="https://www.rocksteadymusicschool.com" target="_blank">Rocksteady Music School</a>.</p>
+<p>Software Developer @ <a href="https://www.rocksteadymusicschool.com" target="_blank">Rocksteady Music School</a>.</p>
 
 <p>Creator and maintainer of:</p>
 
