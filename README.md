@@ -2,7 +2,7 @@
 
 <p>Ruby/React Software Developer @ <a href="https://www.rocksteadymusicschool.com" target="_blank">Rocksteady Music School</a>.</p>
 
-<p>Creator and maintainor of:</p>
+<p>Creator and maintainer of:</p>
 
 - <a href="https://github.com/m-smiff/uk_academic_calendar" target="_blank">UKAcademicCalendar</a> (Ruby Gem) ![Gem Total Downloads](https://img.shields.io/gem/dt/uk_academic_calendar?link=https%3A%2F%2Frubygems.org%2Fgems%2Fuk_academic_calendar)
 
